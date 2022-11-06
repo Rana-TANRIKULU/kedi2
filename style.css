@@ -1,0 +1,19 @@
+body{
+height: 95vh;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.kt1{
+    display: flex;
+    justify-content: space-between;
+}
+.kt2{
+    display: flex;
+    justify-content: center;
+}
+.kt3{
+    display: flex;
+    justify-content: space-between;
+}
